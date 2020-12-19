@@ -1,4 +1,4 @@
-# prog-math
+# hello-cljs
 
 Starter CLJS Deps project using figwheel-main and rebel-readline. Also includes Reagent.
 
